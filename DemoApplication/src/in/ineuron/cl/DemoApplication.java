@@ -1,0 +1,19 @@
+package in.ineuron.cl;
+
+public class DemoApplication {
+
+	public static void main(String[] args) {
+		
+		int [] a= {10,20,30,40};
+		for(int ele:a) {
+			System.out.println(ele);
+		}
+		String str = "China";
+	int count	=str.toUpperCase().length();
+	System.out.println("the length of the string ::" +count);
+		
+		
+
+	}
+
+}
