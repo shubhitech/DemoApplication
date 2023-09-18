@@ -11,6 +11,8 @@ public class DemoApplication {
 		String str = "China";
 	int count	=str.toUpperCase().length();
 	System.out.println("the length of the string ::" +count);
+	System.out.println("done");
+	System.out.println("all");
 		
 		
 
