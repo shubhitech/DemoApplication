@@ -18,6 +18,7 @@ public class DemoApplication {
 	 int ct =sb.append("plz").reverse().length();
 	 System.out.println(ct);
 	 System.out.println("printed");
+	 System.out.println("red");
 		
 		
 
